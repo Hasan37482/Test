@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="100334" started-at="2016-04-11T13:00:24Z" finished-at="2016-04-11T13:02:04Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="100334" started-at="2016-04-11T13:00:24Z" finished-at="2016-04-11T13:02:04Z">
+      <class name="com.paxovision.bestbuy.script.TestCheckOut">
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:com.paxovision.bestbuy.script.TestCheckOut@ea639]" name="beforeMethod" is-config="true" duration-ms="4796" started-at="2016-04-11T09:00:37Z" finished-at="2016-04-11T09:00:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ff]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testBasicFlowScript()[pri:1, instance:com.paxovision.bestbuy.script.TestCheckOut@ea639]" name="testBasicFlowScript" duration-ms="44767" started-at="2016-04-11T09:00:42Z" description="This is a basicflow test" finished-at="2016-04-11T09:01:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBasicFlowScript -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.paxovision.bestbuy.script.TestCheckOut@ea639]" name="tearDown" is-config="true" duration-ms="399" started-at="2016-04-11T09:01:27Z" finished-at="2016-04-11T09:01:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:com.paxovision.bestbuy.script.TestCheckOut@ea639]" name="beforeMethod" is-config="true" duration-ms="6575" started-at="2016-04-11T09:01:27Z" finished-at="2016-04-11T09:01:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ff]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testBasicFlowScript2()[pri:2, instance:com.paxovision.bestbuy.script.TestCheckOut@ea639]" name="testBasicFlowScript2" duration-ms="30419" started-at="2016-04-11T09:01:34Z" description="This is an alternative flow test" finished-at="2016-04-11T09:02:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBasicFlowScript2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.paxovision.bestbuy.script.TestCheckOut@ea639]" name="tearDown" is-config="true" duration-ms="397" started-at="2016-04-11T09:02:04Z" finished-at="2016-04-11T09:02:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.paxovision.bestbuy.script.TestCheckOut -->
+      <class name="com.paxovision.bestbuy.script.TestRegisterPage">
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:com.paxovision.bestbuy.script.TestRegisterPage@124753a]" name="beforeMethod" is-config="true" duration-ms="6952" started-at="2016-04-11T09:00:24Z" finished-at="2016-04-11T09:00:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ff]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.paxovision.bestbuy.script.TestRegisterPage@124753a]" name="test1" duration-ms="5640" started-at="2016-04-11T09:00:31Z" finished-at="2016-04-11T09:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.paxovision.bestbuy.script.TestRegisterPage@124753a]" name="tearDown" is-config="true" duration-ms="366" started-at="2016-04-11T09:00:37Z" finished-at="2016-04-11T09:00:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.paxovision.bestbuy.script.TestRegisterPage -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
